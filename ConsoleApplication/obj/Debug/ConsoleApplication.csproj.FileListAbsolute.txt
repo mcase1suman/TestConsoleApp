@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
